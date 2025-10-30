@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordGame(DZ)", "WordGame(DZ).csproj", "{8C1921D5-F1CC-41F8-BC17-546CDDF00E18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C1921D5-F1CC-41F8-BC17-546CDDF00E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1921D5-F1CC-41F8-BC17-546CDDF00E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1921D5-F1CC-41F8-BC17-546CDDF00E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1921D5-F1CC-41F8-BC17-546CDDF00E18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {876D6F2B-193E-4920-AEC0-EC5E850DCA6A}
+	EndGlobalSection
+EndGlobal
