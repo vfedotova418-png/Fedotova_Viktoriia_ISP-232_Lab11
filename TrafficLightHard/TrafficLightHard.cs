@@ -16,7 +16,6 @@ namespace TrafficLightHard {
             Green
         }
         private LightState currentState = LightState.Green;
-        int step = 0;
         public TrafficLightHard() {
             InitializeComponent();
             timer1.Interval = 1000;
